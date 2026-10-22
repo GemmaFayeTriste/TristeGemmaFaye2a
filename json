@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "title": "My First Website",
+      "description": "An example project entry for a personal website built with HTML and CSS.",
+      "url": "https://gemmafayetriste.github.io/myproject"
+    },
+    {
+      "title": "Student Portfolio",
+      "description": "An example portfolio project where I can showcase my skills and learning journey.",
+      "url": "https://gemmafayetriste.github.io/index.html"
+    }
+  ]
+}
